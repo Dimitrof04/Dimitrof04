@@ -1,10 +1,36 @@
-# Hello I am Dimitrof04
+# 👋 Hello! I'm Dimitrof04
 
-💻 Roblox Dev 🌎 🇧🇷 
+💻 **Roblox Developer**  
+🌎 Brazil 🇧🇷  
 
 ---
 
-## 🎮 Games
+## 🚀 About Me
 
-🔹 Soulline Roblox Game
-🔹 IDK
+- 🎮 Developing games on **Roblox**
+- 🧠 Learning **Lua / Game Systems**
+- 🛠️ Interested in **game mechanics and gameplay**
+
+---
+
+## 🎮 My Games
+
+🔹 **Soulline** – Roblox Game  
+🔹 **IDK** – Work in progress  
+
+---
+
+## 📊 GitHub Stats
+
+![Dimitrof04 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimitrof04&show_icons=true&theme=tokyonight)
+
+---
+
+## 🧰 Technologies
+
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+
+---
+
+⭐ *Thanks for visiting my profile!*
