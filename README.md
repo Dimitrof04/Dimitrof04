@@ -15,8 +15,8 @@
 
 ## 🎮 My Games
 
-🔹 **Soulline** – Roblox Game  
-🔹 **IDK** – Work in progress  
+🔹 **Soulline** – Work in Proges 
+🔹 **IDK** – I dont Have a idea
 
 ---
 
