@@ -1,31 +1,14 @@
-# 👋 Olá, eu sou o Dimi04
+# Hello I am Dimitrof04
 
-💻 Desenvolvedor  
-🎮 Criando jogos no Roblox  
-🌎 Brasil  
+💻 Roblox Dev  
+🌎 Brazilian  
 
 ---
-
-## 🚀 Tecnologias que uso
 
 ![Lua](https://img.shields.io/badge/Lua-blue?style=for-the-badge)
 ![Roblox](https://img.shields.io/badge/Roblox-black?style=for-the-badge)
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimitrof04&show_icons=true&theme=dark)
-
----
-
-## 🧠 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrof04&layout=compact&theme=dark)
-
----
-
-## 🎮 Projetos
+## 🎮 Games
 
 🔹 Soulline Roblox Game 
 
