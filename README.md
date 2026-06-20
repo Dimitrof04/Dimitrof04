@@ -1,36 +1,33 @@
-# 👋 Hello! I'm Dimitrof04
+# Olá, eu sou o Lulu! 👋
 
-💻 **Roblox Developer**  
-🌎 Brazil 🇧🇷  
-
----
-
-## 🚀 About Me
-
-- 🎮 Developing games on **Roblox**
-- 🧠 Learning **Lua / Game Systems**
-- 🛠️ Interested in **game mechanics and gameplay**
+Sou um desenvolvedor de jogos do roblox studio nao reconhecido e sem nenhum lacamento mais porem gosto bastante do ambiente linux por causas das customizacoes
+estou estudando atualmente o ambiente .NET (C#)
 
 ---
 
-## 🎮 My Games
+### 🛠️ Tecnologias e Ferramentas
 
-🔹 **Soulline** – Work in Proges 
-🔹 **IDK** – I dont Have a idea
-
----
-
-## 📊 GitHub Stats
-
-![Dimitrof04 GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimitrof04&show_icons=true&theme=tokyonight)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `Lua / Luau` • `C#`
+| **Ambientes & Engines** | `Roblox Studio` • `Visual Studio`
+| **Sistemas & Infra** | `Linux (Arch / Cachy os)` • `Git & GitHub`
 
 ---
 
-## 🧰 Technologies
+### 📊 Estatísticas do GitHub
 
-![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimitrof04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrof04&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas" height="180px" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+### 📫 Como me encontrar
+- 💼 **GitHub:** [Dimitrof04](https://github.com/Dimitrof04)
+<!-- Adicione links adicionais aqui se desejar (Discord, etc) -->
+
+<p align="center">
+  <i>"Progamacao é igual futebol: a prática e a tática levam à perfeição."</i>
+</p>
