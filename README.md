@@ -1,4 +1,4 @@
-# Olá, eu sou o Dimitrof04! 👋
+# Oi, eu sou o Dimitrof04
 
 Sou uma pessoa bastante determinada que sempre acredita que se algo nao exite tenta o maximo pra provar ao contralio
 
@@ -6,11 +6,8 @@ Sou uma pessoa bastante determinada que sempre acredita que se algo nao exite te
 
 ## 🌌 Projetos em Destaque
 
-### 📖🎮 [SoulLine (Livro & Jogo)](https://github.com/Dimitrof04/SoullineBook)
-Nesse link ta uma pasta com os capitulos e contando mais a historia de Soulline
-
-### 🐧 [Meu Desktop](https://github.com/Dimitrof04/Dimitrof04Desktop)
-Minhas *dotfiles* e scripts de personalização para o meu ecossistema Linux. Sempre em constante evolução para deixar o desktop ágil e minimalista.
+### 🐧 [Meu Desktop](https://github.com/Dimitrof04/ArtexDesktop)
+Meu desktop personalidado baseado em python e em foco de tornar o Desktop mais personalizável possível 
 
 ---
 
